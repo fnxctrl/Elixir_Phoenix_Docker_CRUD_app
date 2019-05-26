@@ -1,5 +1,15 @@
-# Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
-CRUD app implemented using Elixir, Phoenix and Docker.
+# Elixir Phoenix Docker PostgreSQL CRUD app
+CRUD app implemented using Elixir, Phoenix, Docker and PostgreSQL.
+
+![alt text](https://raw.githubusercontent.com/fnxctrl/Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
+/master/images/todo_app.png)
+
+![alt text](https://raw.githubusercontent.com/fnxctrl/Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
+/master/images/new_todo.png)
+
+![alt text](https://raw.githubusercontent.com/fnxctrl/Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
+/master/images/todo_delete.png)Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
+
 
 ## Setup
 Use docker to setup postgres container.
@@ -21,7 +31,7 @@ Setup Ecto with PSQL
 ```bash
 cd todo_elixir && mix ecto.create
 ```
-
+asdfa
 Setup `/assets`
 ```bash
 cd assets && npm install && node node_modules/webpack/bin/webpack.js --mode development

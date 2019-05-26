@@ -45,4 +45,4 @@ Start Phoenix server
 mix phx.server
 ```
 
-Goto: 127.0.0.1:4000/todos
+Goto: http://127.0.0.1:4000/todos

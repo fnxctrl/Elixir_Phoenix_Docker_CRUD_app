@@ -33,14 +33,15 @@ mix phx.gen.schema Todo todos description
 ```
 
 ```bash
-mix ecto.migrate
-```
-
-```bash
 mix phx.gen.html Web Todo todos description
 ```
 
-Edit `router.ex` and add line:
+Ecto migrate
+```bash
+mix ecto.migrate
+```
+
+Edit `lib/todo_elixir_web/router.ex` and add line:
 ```
 resources "/todos", TodoController
 ```

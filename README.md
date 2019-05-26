@@ -1,4 +1,4 @@
-# Elixir_Phoenix_Docker_CRUD_app
+# Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
 CRUD app implemented using Elixir, Phoenix and Docker.
 
 ## Setup

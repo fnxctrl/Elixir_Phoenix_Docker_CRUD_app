@@ -1,15 +1,11 @@
 # Elixir Phoenix Docker PostgreSQL CRUD app
 CRUD app implemented using Elixir, Phoenix, Docker and PostgreSQL.
 
-![alt text](https://raw.githubusercontent.com/fnxctrl/Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
-/master/images/todo_app.png)
-
-![alt text](https://raw.githubusercontent.com/fnxctrl/Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
-/master/images/new_todo.png)
-
-![alt text](https://raw.githubusercontent.com/fnxctrl/Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
-/master/images/todo_delete.png)Elixir_Phoenix_Docker_PostgreSQL_CRUD_app
-
+![ToDo app](images/todo_app.png)
+----
+![New ToDo](images/new_todo.png)
+----
+![Delete Todo](images/todo_delete.png)
 
 ## Setup
 Use docker to setup postgres container.

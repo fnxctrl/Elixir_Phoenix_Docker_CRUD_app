@@ -22,6 +22,11 @@ Setup Ecto with PSQL
 cd todo_elixir && mix ecto.create
 ```
 
+Setup `/assets`
+```bash
+cd assets && npm install && node node_modules/webpack/bin/webpack.js --mode development
+```
+
 Generate Phoenix schema
 ```bash
 mix phx.gen.schema Todo todos description

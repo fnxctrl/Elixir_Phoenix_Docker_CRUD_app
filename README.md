@@ -4,7 +4,7 @@ CRUD app implemented using Elixir, Phoenix and Docker.
 ## Setup
 Use docker to setup postgres container.
 ```bash
-docker container run \
+sudo docker container run \
 --name postgres \
 -p 5432:5432 \
 -e POSTGRES_PASSWORD=postgres \
